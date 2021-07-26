@@ -1,0 +1,26 @@
+<annotation>
+	<folder>onion_rings</folder>
+	<filename>231923.jpg</filename>
+	<path>C:\Users\arunr\Downloads\windows_v1.8.0\Dataset\onion_rings\231923.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>382</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>onion_rings 156 calories</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>151</xmin>
+			<ymin>52</ymin>
+			<xmax>447</xmax>
+			<ymax>335</ymax>
+		</bndbox>
+	</object>
+</annotation>

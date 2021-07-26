@@ -1,0 +1,26 @@
+<annotation>
+	<folder>apple_pie</folder>
+	<filename>127721.jpg</filename>
+	<path>C:\Users\arunr\Downloads\windows_v1.8.0\Dataset\apple_pie\127721.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>apple_pie 237 calories</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>154</ymin>
+			<xmax>366</xmax>
+			<ymax>387</ymax>
+		</bndbox>
+	</object>
+</annotation>

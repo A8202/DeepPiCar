@@ -1,0 +1,26 @@
+<annotation>
+	<folder>falafel</folder>
+	<filename>1670.jpg</filename>
+	<path>C:\Users\arunr\Downloads\windows_v1.8.0\Dataset\falafel\1670.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>falafel 333 calories</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>106</ymin>
+			<xmax>376</xmax>
+			<ymax>452</ymax>
+		</bndbox>
+	</object>
+</annotation>

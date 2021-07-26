@@ -1,0 +1,38 @@
+<annotation>
+	<folder>donuts</folder>
+	<filename>159634.jpg</filename>
+	<path>C:\Users\arunr\Downloads\windows_v1.8.0\Dataset\donuts\159634.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>donuts 452 calories</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>179</xmin>
+			<ymin>185</ymin>
+			<xmax>424</xmax>
+			<ymax>373</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>donuts 452 calories</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>274</xmin>
+			<ymin>49</ymin>
+			<xmax>488</xmax>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+</annotation>

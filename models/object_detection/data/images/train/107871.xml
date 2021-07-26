@@ -1,0 +1,26 @@
+<annotation>
+	<folder>samosa</folder>
+	<filename>107871.jpg</filename>
+	<path>C:\Users\arunr\Downloads\windows_v1.8.0\Dataset\samosa\107871.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>398</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>samosa 262 calories</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>8</ymin>
+			<xmax>497</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+</annotation>

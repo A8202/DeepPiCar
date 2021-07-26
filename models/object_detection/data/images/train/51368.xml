@@ -1,0 +1,26 @@
+<annotation>
+	<folder>french_fries</folder>
+	<filename>51368.jpg</filename>
+	<path>C:\Users\arunr\Downloads\windows_v1.8.0\Dataset\french_fries\51368.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>386</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>french_fries 312 calories</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>90</ymin>
+			<xmax>312</xmax>
+			<ymax>402</ymax>
+		</bndbox>
+	</object>
+</annotation>

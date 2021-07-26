@@ -1,0 +1,26 @@
+<annotation>
+	<folder>greek_salad</folder>
+	<filename>226959.jpg</filename>
+	<path>C:\Users\arunr\Downloads\windows_v1.8.0\Dataset\greek_salad\226959.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>382</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>greek_salad 179 calories</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>28</ymin>
+			<xmax>415</xmax>
+			<ymax>345</ymax>
+		</bndbox>
+	</object>
+</annotation>

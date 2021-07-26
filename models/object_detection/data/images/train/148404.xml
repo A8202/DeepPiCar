@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fried_rice</folder>
+	<filename>148404.jpg</filename>
+	<path>C:\Users\arunr\Desktop\windows_v1.8.0\Dataset\fried_rice\148404.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fried_rice 546 calories</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>237</ymin>
+			<xmax>368</xmax>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+</annotation>

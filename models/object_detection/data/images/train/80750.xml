@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pizza</folder>
+	<filename>80750.jpg</filename>
+	<path>C:\Users\arunr\Downloads\windows_v1.8.0\Dataset\pizza\80750.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>383</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pizza 266 calories</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>5</ymin>
+			<xmax>505</xmax>
+			<ymax>368</ymax>
+		</bndbox>
+	</object>
+</annotation>

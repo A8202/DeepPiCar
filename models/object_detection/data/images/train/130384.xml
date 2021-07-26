@@ -1,0 +1,26 @@
+<annotation>
+	<folder>spring_rolls</folder>
+	<filename>130384.jpg</filename>
+	<path>C:\Users\arunr\Downloads\windows_v1.8.0\Dataset\spring_rolls\130384.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>382</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spring_rolls 154 calories</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>265</ymin>
+			<xmax>351</xmax>
+			<ymax>461</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>omelette</folder>
+	<filename>74078.jpg</filename>
+	<path>C:\Users\arunr\Downloads\windows_v1.8.0\Dataset\omelette\74078.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>omelette 226 calories</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>133</ymin>
+			<xmax>345</xmax>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+</annotation>

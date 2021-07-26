@@ -1,0 +1,26 @@
+<annotation>
+	<folder>chocolate_cake</folder>
+	<filename>209099.jpg</filename>
+	<path>C:\Users\arunr\Downloads\windows_v1.8.0\Dataset\chocolate_cake\209099.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chocolate_cake 371 calories</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>21</ymin>
+			<xmax>468</xmax>
+			<ymax>277</ymax>
+		</bndbox>
+	</object>
+</annotation>

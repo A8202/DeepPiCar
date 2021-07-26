@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ice_cream</folder>
+	<filename>142995.jpg</filename>
+	<path>C:\Users\arunr\Downloads\windows_v1.8.0\Dataset\ice_cream\142995.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ice_cream 207 calories</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>47</ymin>
+			<xmax>359</xmax>
+			<ymax>454</ymax>
+		</bndbox>
+	</object>
+</annotation>

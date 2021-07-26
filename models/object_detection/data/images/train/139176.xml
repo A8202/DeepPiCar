@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Baklava</folder>
+	<filename>139176.jpg</filename>
+	<path>C:\Users\arunr\Downloads\windows_v1.8.0\Dataset\Baklava\139176.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>341</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Baklava 100 cal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>21</ymin>
+			<xmax>492</xmax>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+</annotation>

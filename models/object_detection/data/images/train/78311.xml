@@ -1,0 +1,26 @@
+<annotation>
+	<folder>chicken_wings</folder>
+	<filename>78311.jpg</filename>
+	<path>C:\Users\arunr\Downloads\windows_v1.8.0\Dataset\chicken_wings\78311.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chicken_wings 81 calorie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>95</ymin>
+			<xmax>488</xmax>
+			<ymax>349</ymax>
+		</bndbox>
+	</object>
+</annotation>

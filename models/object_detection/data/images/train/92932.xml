@@ -1,0 +1,26 @@
+<annotation>
+	<folder>garlic_bread</folder>
+	<filename>92932.jpg</filename>
+	<path>C:\Users\arunr\Downloads\windows_v1.8.0\Dataset\garlic_bread\92932.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>garlic_bread 206 calories</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>25</ymin>
+			<xmax>498</xmax>
+			<ymax>491</ymax>
+		</bndbox>
+	</object>
+</annotation>
